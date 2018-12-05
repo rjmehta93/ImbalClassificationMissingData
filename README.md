@@ -14,5 +14,5 @@ EDA file is for data exploration and finding relations for feature engineering
 Doc file is for visualisation summary
 Proc file is for preparing train and test data
 Models file is for moddeling 
-Final is for final model
+Final is for the final model
 
